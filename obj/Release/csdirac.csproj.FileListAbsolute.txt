@@ -1,0 +1,14 @@
+D:\src\csdirac\src\obj\Release\ResolveAssemblyReference.cache
+D:\src\csdirac\src\bin\Release\csdirac.dll
+D:\src\csdirac\src\bin\Release\csdirac.pdb
+D:\src\csdirac\src\obj\Release\csdirac.dll
+D:\src\csdirac\src\obj\Release\csdirac.pdb
+D:\src\csdirac\csirac\obj\Release\ResolveAssemblyReference.cache
+D:\src\csdirac\csirac\obj\Release\csdirac.dll
+D:\src\csdirac\csirac\obj\Release\csdirac.pdb
+D:\src\csdirac\csirac\bin\Release\csdirac.dll
+D:\src\csdirac\csirac\bin\Release\csdirac.pdb
+D:\src\csdirac\csirac\bin\Release\System.Windows.dll
+D:\src\csdirac\csirac\bin\Release\System.Core.dll
+D:\src\csdirac\csirac\bin\Release\System.Net.dll
+D:\src\csdirac\csirac\bin\Release\System.Runtime.Serialization.dll

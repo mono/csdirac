@@ -1,0 +1,9 @@
+D:\src\csdirac\csirac\DiractTest\bin\Debug\DiractTest.dll
+D:\src\csdirac\csirac\DiractTest\bin\Debug\DiractTest.pdb
+D:\src\csdirac\csirac\DiractTest\bin\Debug\csdirac.dll
+D:\src\csdirac\csirac\DiractTest\bin\Debug\nunit.framework.dll
+D:\src\csdirac\csirac\DiractTest\bin\Debug\csdirac.pdb
+D:\src\csdirac\csirac\DiractTest\bin\Debug\nunit.framework.xml
+D:\src\csdirac\csirac\DiractTest\obj\Debug\ResolveAssemblyReference.cache
+D:\src\csdirac\csirac\DiractTest\obj\Debug\DiractTest.dll
+D:\src\csdirac\csirac\DiractTest\obj\Debug\DiractTest.pdb

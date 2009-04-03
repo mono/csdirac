@@ -1,0 +1,13 @@
+D:\src\csdirac\csirac\DiractTest\obj\Release\ResolveAssemblyReference.cache
+D:\src\csdirac\csirac\DiractTest\bin\Release\DiractTest.dll
+D:\src\csdirac\csirac\DiractTest\bin\Release\DiractTest.pdb
+D:\src\csdirac\csirac\DiractTest\bin\Release\csdirac.dll
+D:\src\csdirac\csirac\DiractTest\bin\Release\nunit.framework.dll
+D:\src\csdirac\csirac\DiractTest\bin\Release\csdirac.pdb
+D:\src\csdirac\csirac\DiractTest\bin\Release\nunit.framework.xml
+D:\src\csdirac\csirac\DiractTest\obj\Release\DiractTest.dll
+D:\src\csdirac\csirac\DiractTest\obj\Release\DiractTest.pdb
+D:\src\csdirac\csirac\DiractTest\bin\Release\System.Core.dll
+D:\src\csdirac\csirac\DiractTest\bin\Release\System.Net.dll
+D:\src\csdirac\csirac\DiractTest\bin\Release\System.Runtime.Serialization.dll
+D:\src\csdirac\csirac\DiractTest\bin\Release\System.Windows.dll
