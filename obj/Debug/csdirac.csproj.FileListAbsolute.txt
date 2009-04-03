@@ -1,5 +1,0 @@
-D:\src\csdirac\csirac\bin\Debug\csdirac.dll
-D:\src\csdirac\csirac\bin\Debug\csdirac.pdb
-D:\src\csdirac\csirac\obj\Debug\ResolveAssemblyReference.cache
-D:\src\csdirac\csirac\obj\Debug\csdirac.dll
-D:\src\csdirac\csirac\obj\Debug\csdirac.pdb
